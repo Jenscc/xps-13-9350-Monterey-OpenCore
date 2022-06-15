@@ -1,4 +1,4 @@
-Monterey(OSX 12.1) with OC0.7.9 on DELL XP13(9350)
+Monterey(OSX 12.4) with OC0.7.9 on DELL XP13(9350)
 - 1080P Display
 - i7-6560U / Intel Iris HD 540
 - DDR3 8G

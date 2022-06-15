@@ -1,34 +1,20 @@
-Monterey(OSX 12.0.1) on DELL XP13(9350)
-
-## Installation
-
-You can download a prepared dmg from [here](https://blog.daliansky.net/macOS-Monterey-12.1-21C52-Release-version-with-OC-0.7.6-CLOVER-5143-and-FirPE-original-image.html#more). Then you should replace the EFI in the dmg with the EFI here.
-
-opencore guide [English](https://dortania.github.io/OpenCore-Install-Guide/installer-guide/)
-
-**No Debug in This config.plist**
-
-tested on **Dell XPS 9350**
-
+Monterey(OSX 12.1) with OC0.7.9 on DELL XP13(9350)
 - 1080P Display
 - i7-6560U / Intel Iris HD 540
 - DDR3 8G
 - THNSN5256GPU7 NVMe TOSHIBA 256GB
 - DW1820A
 - macOS Monterey
+## Installation
 
-## Post Install
+You can download a prepared dmg from [here](https://blog.daliansky.net/macOS-Monterey-12.1-21C52-Release-version-with-OC-0.7.6-CLOVER-5143-and-FirPE-original-image.html#more). Then you should replace the EFI in the dmg with the EFI here.
 
-### Fix Headphone Audio
-
-unzip `OC/Tools/ComboJack_Installer` to Desktop, then run `ComboJack_Installer/install.sh` in Terminal.  
-
-reference: https://github.com/hackintosh-stuff/ComboJack
+opencore guide [English](https://dortania.github.io/OpenCore-Install-Guide/installer-guide/)
 
 ## What works
 
 - Power/Battery
-- Iris Graphics 540 
+- Iris Graphics 540 2048MB
 - TouchPad
 - Brightness
 - Brightness Keys
@@ -43,3 +29,6 @@ reference: https://github.com/hackintosh-stuff/ComboJack
 - Reboot
 
 Enjoy ! 🔥😎
+
+## Reference
+**hsiang-hsu/XPS9350-OC-EFI:** https://github.com/hsiang-hsu/XPS9350-OC-EFI

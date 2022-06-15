@@ -1,4 +1,4 @@
-Monterey(OSX 12.0.1) on DELL XP13(9350)
+Monterey(OSX 12.1) with OC0.7.4 on DELL XP13(9350)
 
 ## Installation
 
